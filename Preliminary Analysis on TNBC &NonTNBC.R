@@ -1,3 +1,4 @@
+#This file is my solution I have created to an assessment given by Kains Lab at UHN, Princess Margaret Cancer Center.
 # Simple Preliminary Analysis
 # I have cleaned the data by deleting empty columns on the mRNA spreadsheet that would cause problem in correlation analysis
 # Package installing. daff has been used for extra purposes to latter to be used to put on my personal website
